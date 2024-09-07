@@ -17,14 +17,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![desktop screenshot](https://github.com/HamzeKabi/product-preview-card/blob/844d6eb8f3dd02584c7f10a673db2711993d71aa/screenshots/recipe%20page%20-%20desktop%20screenshot.html.png)
+![desktop screenshot](https://github.com/hamze-kabi/product-preview-card/blob/main/screenshots/recipe%20page%20-%20desktop%20screenshot.html.png)
 
-[mobile screenshot](https://github.com/HamzeKabi/product-preview-card/blob/844d6eb8f3dd02584c7f10a673db2711993d71aa/screenshots/recipe%20page%20-%20mobile%20screenshot.html.png)
+[mobile screenshot](https://github.com/hamze-kabi/product-preview-card/blob/main/screenshots/recipe%20page%20-%20mobile%20screenshot.html.png)
 
 ### Links
 
-- Solution URL: [index.html](https://github.com/HamzeKabi/product-preview-card/blob/9e5af2d3019d6e3122b033927a275a8e6df4e59b/index.html)
-- Live Site URL: [https://hamzekabi.github.io/product-preview-card/](https://hamzekabi.github.io/product-preview-card/)
+- Solution URL: [https://github.com/hamze-kabi/product-preview-card](https://github.com/hamze-kabi/product-preview-card)
+- Live Site URL: [https://hamze-kabi.github.io/product-preview-card/](https://hamze-kabi.github.io/product-preview-card/)
 
 ## My process
 
@@ -44,5 +44,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Github - [https://github.com/HamzeKabi](https://github.com/HamzeKabi)
-- Frontend Mentor - [@HamzeKabi](https://www.frontendmentor.io/profile/HamzeKabi)
+- Github - [https://github.com/hamze-kabi](https://github.com/hamze-kabi)
